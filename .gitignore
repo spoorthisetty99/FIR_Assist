@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# dotenv environment files
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
